@@ -1,0 +1,45 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_92716DB6_8341_1A36_41D2_C9DE81A153BA.source = https://api.whatsapp.com/send?phone=5522999341632
+LinkBehaviour_97108647_8341_3656_41D3_0581F4AA4FB9.source = https://api.whatsapp.com/send?phone=5522999341632
+LinkBehaviour_970E2643_8341_364E_41D3_49821AE39A09.source = https://www.facebook.com/SanPubGourmet/
+LinkBehaviour_91774C34_8341_19CB_41DE_608232B589A2.source = https://www.facebook.com/SanPubGourmet/
+LinkBehaviour_92D839F5_8347_1A35_41CC_F6BBD4576A29.source = https://www.google.com.br/maps/place/Sanpub/@-21.7776917,-41.2914659,17z/data=!3m1!4b1!4m5!3m4!1s0xbdd57b73409373:0x850361b56b6dea99!8m2!3d-21.7776917!4d-41.2892772?hl=pt-BR
+LinkBehaviour_97104647_8341_3656_41D9_6E11F00D15FA.source = https://www.google.com.br/maps/place/Sanpub/@-21.7776917,-41.2914659,17z/data=!3m1!4b1!4m5!3m4!1s0xbdd57b73409373:0x850361b56b6dea99!8m2!3d-21.7776917!4d-41.2892772?hl=pt-BR
+LinkBehaviour_91C7E1C0_8343_2A4A_4161_BFB7C167AB60.source = https://www.instagram.com/alvarolinsjunior/
+LinkBehaviour_9711C645_8341_364A_41DF_E36C4A095FE3.source = https://www.instagram.com/alvarolinsjunior/
+
+## Media
+
+### Audio
+audiores_9209CFF6_834F_1637_41D8_D897F53E833C.mp3Url = media/audio_8CA557EA_8341_165E_41D5_27ADB5A2559E_pt.mp3
+
+### Title
+video_8CFA3A77_8343_3E36_41CB_6D30BB121001.label = Propaganda restaurante
+panorama_8F72B36D_8343_2E5A_41D2_355E4427A3B0.label = SUMPUB
+
+### Video
+videolevel_980A80D7_8E74_E8C1_41DD_5B03AA6AD294.posterURL = media/video_8CFA3A77_8343_3E36_41CB_6D30BB121001_poster_pt.jpg
+videolevel_980A80D7_8E74_E8C1_41DD_5B03AA6AD294.url = media/video_8CFA3A77_8343_3E36_41CB_6D30BB121001_pt.mp4
+
+## Skin
+
+### Button
+Button_8CD7B80E_8341_19D7_41D5_50F7F24A8C7C_mobile.label = Facebook
+Button_8CD7B80E_8341_19D7_41D5_50F7F24A8C7C.label = Facebook
+Button_8C928D6A_8341_3A5E_41CE_968B725DF440_mobile.label = Instagram
+Button_8C928D6A_8341_3A5E_41CE_968B725DF440.label = Instagram
+Button_93EF8684_8341_36CB_4172_7252AFADB4EA.label = Localização
+Button_93EF8684_8341_36CB_4172_7252AFADB4EA_mobile.label = Localização
+Button_939AAA8B_8341_3EDD_41D3_19CA83ACA58D_mobile.label = Whatsapp
+Button_939AAA8B_8341_3EDD_41D3_19CA83ACA58D.label = Whatsapp
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Projeto Sampub
